@@ -9,6 +9,8 @@ import * as d3 from 'd3';
 function GraphContainer({ items, activeTab }) {
 	const [flag, setFlag] = useState(0);
 	const [visible, setVisible] = useState(0);
+	const [industryTitle, setIndustryTitle] = useState('Filter by industry');
+	const [geographyTitle, setGeographyTitle] = useState('Filter by geography');
 
 	var overall = [
 		{
@@ -1968,11 +1970,14 @@ function GraphContainer({ items, activeTab }) {
 
 		document.querySelectorAll('#filter-industry .child').forEach((child) => {
 			child.addEventListener('click', () => {
+				let val = child.textContent;
 				setFlag(0);
-				if (child.textContent === 'Reset') {
-					updateAll1(null, child.textContent);
+				if (val === 'Reset') {
+					setIndustryTitle('Filter by industry');
+					updateAll1(null, val);
 				} else {
-					updateAll1('industry', child.textContent);
+					setGeographyTitle(val);
+					updateAll1('industry', val);
 				}
 			});
 		});
@@ -1981,11 +1986,14 @@ function GraphContainer({ items, activeTab }) {
 			.querySelectorAll('#filter-geography .geography-child')
 			.forEach((child) => {
 				child.addEventListener('click', () => {
+					let val = child.getAttribute('value');
 					setVisible(0);
-					if (child.getAttribute('value') === 'Reset') {
-						updateAll1(null, child.getAttribute('value'));
+					if (val === 'Reset') {
+						setGeographyTitle('Filter by geography');
+						updateAll1(null, val);
 					} else {
-						updateAll1('geography', child.getAttribute('value'));
+						setGeographyTitle(val);
+						updateAll1('geography', val);
 					}
 				});
 			});
@@ -2129,9 +2137,7 @@ function GraphContainer({ items, activeTab }) {
 														style={{ fill: '#071871' }}
 													/>
 												</svg>
-												<span className="industry-text">
-													Filter by industry
-												</span>
+												<span className="industry-text">{industryTitle}</span>
 											</p>
 											<span
 												className="menu-arrow"
@@ -2246,7 +2252,7 @@ function GraphContainer({ items, activeTab }) {
 													style={{ fill: '#071871' }}
 												/>
 											</svg>
-											<span className="geo-text">Filter by geography</span>
+											<span className="geo-text">{geographyTitle}</span>
 										</p>
 										<span
 											className="menu-arrow"

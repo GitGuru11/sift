@@ -7,6 +7,10 @@ html {
 	/* scroll-padding: 152px; */
 }
 
+.GraphContainer_container__doVuY {
+	padding: 50px !important;
+}
+
 #filter-industry-pt-container {
 	max-width: none;
 }
