@@ -1,0 +1,22 @@
+.mainSticky .dropdown p::after{
+    content: "";
+    display: block;
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: auto;
+    right: 25px;
+    bottom: 50%;
+    transform: translate(0, 50%);
+    background: url(/plus-circle.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.mainSticky .dropdown p.open::after {
+    background: url(/sticky/minus-circle.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+/* .mainSticky ul li a {
+    -webkit-text-stroke: 1px;
+} */

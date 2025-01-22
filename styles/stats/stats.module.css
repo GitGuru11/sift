@@ -1,0 +1,74 @@
+.stats  {
+    margin: 40px 0;
+}
+.stats > div{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.stats > div > div{
+    width: 50%;
+    padding: 0 14px 0 24px;
+    border-left: solid 1px black;
+}
+.stats > div > div > div > h2{
+   display: inline-block;
+   color: #2E69FF;
+   position: relative;
+   z-index: 10;
+}
+.stats > div > div > div > span{
+    color: #2E69FF;
+    font-size: 44px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 100%;
+}
+.stats > div > div p{
+    font-size: 16px;
+    margin-bottom: 0;
+}
+@media (min-width: 2499px){
+    .stats > div > div > div > span{
+        font-size: 70px;
+    }
+    .stats > div > div h6{
+        font-size: 24px;
+    }
+    .stats > div > div p{
+        font-size: 18px;
+    }
+}
+@media (min-width: 1200px) and (max-height: 950px){ 
+    .stats > div > div h6{
+        font-size: 16px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1280px){
+    .stats > div > div{
+        margin-top: 20px;
+        width: 100%;
+    }
+    .stats > div > div:first-child{
+        margin-top: 0;
+    }
+}
+@media (min-width: 992px) and (max-width: 1599px){
+    .stats > div > div > div > span{
+        font-size: 30px;
+    }
+}
+@media (max-width: 991px){
+    .stats > div > div > div > span{
+        font-size: 24px;
+    }
+}
+@media (max-width: 595px) {
+    .stats > div > div{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .stats > div > div:last-child{
+        margin-bottom: 0;
+    }
+}

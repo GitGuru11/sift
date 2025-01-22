@@ -1,0 +1,2257 @@
+[
+	{
+		"topic": " Topic 1",
+		"cardData": [
+			{
+				"id": "1",
+				"subTitle": "webinar",
+				"title": "Topic 1 Are account takeovers haunting your organization?",
+				"cta": "watch webinar",
+				"useCase": "Use Case 1",
+				"Industry": "Fintech",
+				"role": "Role 1",
+				"product": "Product 1"
+			},
+			{
+				"id": "2",
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"Industry": "Food & beverage",
+				"useCase": "Use Case 1",
+				"role": "Role 1",
+				"product": "Product 2"
+			},
+
+			{
+				"id": "3",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"Industry": "iGaming",
+				"useCase": "Use Case 1",
+				"role": "Role 2",
+				"product": "Product 3"
+			},
+			{
+				"id": "4",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"Industry": "iGaming",
+				"useCase": "Use Case 1",
+				"role": "Role 1",
+				"product": "Product 3"
+			},
+			{
+				"id": "5",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"Industry": "Marketplaces",
+				"useCase": "Use Case 1",
+				"role": "Role 3",
+				"product": "Product 4"
+			},
+			{
+				"id": "6",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 4"
+			},
+			{
+				"id": "7",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 3",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 5"
+			},
+			{
+				"id": "8",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 6"
+			},
+			{
+				"id": "9",
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 6"
+
+                
+			},
+			{
+				"id": "10",
+
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 6",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "11",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 7",
+				"Industry": "iGaming",
+				"role": "Role 3",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "12",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 8"
+
+                
+			},
+			{
+				"id": "13",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "14",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "15",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "16",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"Industry": "iGaming",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "17",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 4",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "18",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "19",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "20",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "21",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "22",
+
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "23",
+
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "24",
+
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "25",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 3",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "26",
+
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "27",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "28",
+
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "29",
+
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "30",
+
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "31",
+
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "32",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 3",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "33",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "34",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "35",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "36",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "37",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 5"
+
+			},
+			{
+				"id": "38",
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 5"
+
+			},
+			{
+				"id": "39",
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 5"
+
+			},
+			{
+				"id": "40",
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 5"
+
+			},
+			{
+				"id": "41",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 4",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "42",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "43",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "44",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "45",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "46",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "47",
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "48",
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "49",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 3",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "50",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 2",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "51",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "52",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "53",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "54",
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 6"
+
+			},
+			{
+				"id": "55",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 4",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "56",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "57",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 7"
+                
+			},
+			{
+				"id": "58",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "59",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "60",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "61",
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "62",
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7"
+			},
+			{
+				"id": "63",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 3",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "64",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 7"
+
+			},
+			{
+				"id": "65",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "66",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "67",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "68",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "69",
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "70",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "71",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "72",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "73",
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 8"
+
+			},
+			{
+				"id": "74",
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 8"
+
+			}
+		]
+	},
+	{
+		"topic": " Topic 2",
+		"cardData": [
+			{
+				"id": "topic2-1",
+				"subTitle": "ebook",
+				"title": "Topic 2 Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic2-2",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic2-3",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic2-4",
+				"subTitle": "webinar",
+				"title": "Are account takeovers haunting your organization?",
+				"cta": "watch webinar",
+				"useCase": "Use Case 1",
+				"Industry": "Fintech",
+				"role": "Role 1",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic2-5",
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic2-6",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic2-7",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-8",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-9",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-10",
+
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-11",
+
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-12",
+
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-13",
+
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-14",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 3",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-15",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic2-16",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "topic2-17",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "topic2-18",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "topic2-19",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 3"
+
+			},
+			{
+				"id": "topic2-20",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "topic2-21",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "topic2-22",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "topic2-23",
+
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 4"
+
+			},
+			{
+				"id": "topic2-24",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 5"
+
+			}
+		]
+	},
+	{
+		"topic": " Topic 3",
+		"cardData": [
+			{
+				"id": "topic3-1",
+
+				"subTitle": "report",
+				"title": "Topic 3 Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic3-2",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic3-3",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic3-4",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 1"
+
+			},
+			{
+				"id": "topic3-5",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-6",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-7",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-8",
+
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-9",
+
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-10",
+
+				"subTitle": "webinar",
+				"title": "Are account takeovers haunting your organization?",
+				"cta": "watch webinar",
+				"useCase": "Use Case 1",
+				"Industry": "Fintech",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-11",
+
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-12",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-13",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-14",
+
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-15",
+
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-16",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-17",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-18",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-19",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-20",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-21",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-22",
+
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-23",
+
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-24",
+
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-25",
+
+				"subTitle": "webinar",
+				"title": "Are account takeovers haunting your organization?",
+				"cta": "watch webinar",
+				"useCase": "Use Case 1",
+				"Industry": "Fintech",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-26",
+
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-27",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2"
+			},
+			{
+				"id": "topic3-28",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 2"
+
+			}
+		]
+	},
+	{
+		"topic": " Topic 4",
+		"cardData": [
+			{
+				"id": "topic4-1",
+
+				"subTitle": "webinar",
+				"title": "Topic 4 Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic4-2",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic4-3",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic4-4",
+
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic4-5",
+
+				"subTitle": "webinar",
+				"title": "Are account takeovers haunting your organization?",
+				"cta": "watch webinar",
+				"useCase": "Use Case 1",
+				"Industry": "Fintech",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic4-6",
+
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic4-7",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 2"
+
+			},
+			{
+				"id": "topic3-8",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic4-9",
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 3"
+
+			},
+			{
+                "id": "topic4-10",
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 3"
+
+			},
+			{
+                "id": "topic4-11",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 3"
+
+			},
+			{
+                "id": "topic4-12",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-13",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-14",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-15",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-16",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-17",
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-18",
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-19",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-20",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic4-21",
+
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 6"
+
+			},
+			{
+                "id": "topic4-22",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 5"
+
+			}
+		]
+	},
+	{
+		"topic": " Topic 5",
+		"cardData": [
+			{
+                "id": "topic5-1",
+
+				"subTitle": "report",
+				"title": "Topic 5 How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 1"
+
+			},
+			{
+                "id": "topic5-2",
+
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 1"
+                
+			},
+			{
+                "id": "topic5-3",
+
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 1"
+
+			},
+			{
+                "id": "topic5-4",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 9",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic5-5",
+
+				"subTitle": "webinar",
+				"title": "Are account takeovers haunting your organization?",
+				"cta": "watch webinar",
+				"useCase": "Use Case 1",
+				"Industry": "Fintech",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic5-6",
+
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic5-7",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 3"
+
+			},
+			{
+                "id": "topic5-8",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 3"
+
+			},
+			{
+                "id": "topic5-9",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic5-10",
+                
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 4"
+
+			},
+			{
+                "id": "topic5-11",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 5"
+
+			},
+			{
+                "id": "topic5-12",
+
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 6"
+
+			},
+			{
+                "id": "topic5-13",
+
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 5"
+
+			},
+			{
+                "id": "topic5-14",
+
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 5"
+
+			},
+			{
+                "id": "topic5-15",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 7",
+				"product": "Product 5"
+			},
+			{
+                "id": "topic5-16",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 5"
+
+			},
+			{
+                "id": "topic5-17",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 5"
+
+			},
+			{
+                "id": "topic5-18",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 5"
+
+			},
+			{
+                "id": "topic5-19",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 6"
+
+			},
+			{
+                "id": "topic5-20",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+                "role": "Role 1",
+				"product": "Product 6"
+
+			},
+			{
+                "id": "topic5-21",
+
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 6"
+
+			},
+			{
+                "id": "topic5-22",
+
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+                "role": "Role 1",
+				"product": "Product 6"
+
+			},
+			{
+                "id": "topic5-23",
+
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 7"
+
+			},
+			{
+                "id": "topic5-24",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 7"
+
+			},
+			{
+                "id": "topic5-25",
+
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 7"
+
+			},
+			{
+                "id": "topic5-26",
+
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 7"
+
+			}
+		]
+	},
+	{
+		"topic": " Topic 6",
+		"cardData": [
+			{
+                "id": "topic6-1",
+
+				"subTitle": "ebook",
+				"title": " Topic 6 [Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 7"
+			},
+			{
+                "id": "topic6-2",
+
+				"subTitle": "webinar",
+				"title": "Are account takeovers haunting your organization?",
+				"cta": "watch webinar",
+				"useCase": "Use Case 1",
+				"Industry": "Fintech",
+				"role": "Role 1",
+				"product": "Product 7"
+
+			},
+			{
+                "id": "topic6-3",
+
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 7"
+			},
+			{
+                "id": "topic6-4",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 7"
+
+			},
+			{
+                "id": "topic6-5",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 7"
+
+			},
+			{
+                "id": "topic6-6",
+				"subTitle": "webinar",
+				"title": "Selecting the Right Digital Fraud Management Partner Featuring Forrester",
+				"cta": "read ebook",
+				"useCase": "Use Case 2",
+				"Industry": "Food & beverage",
+				"role": "Role 1",
+				"product": "Product 7"
+
+			},
+			{
+                "id": "topic6-7",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 7"
+			},
+			{
+                "id": "topic6-8",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 1"
+
+			},
+			{
+                "id": "topic6-9",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 1"
+			},
+			{
+                "id": "topic6-10",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 4",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 1"
+
+			},
+			{
+                "id": "topic6-11",
+				"subTitle": "podcast",
+				"title": "The democratization of fraud meets fraud-as-a-service",
+				"cta": "listen to podcast",
+				"useCase": "Use Case 2",
+				"Industry": "Payment service providers",
+				"role": "Role 5",
+				"product": "Product 1"
+
+			},
+			{
+                "id": "topic6-12",
+				"subTitle": "report",
+				"title": "How to combat the emergence of automated and AI-generated fraud",
+				"cta": "read report",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 5",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic6-13",
+				"subTitle": "webinar",
+				"title": "3 Things Retailers Can Do Now to Protect Against Payment Fraud",
+				"cta": "watch webinar",
+				"useCase": "Use Case 5",
+				"Industry": "Travel & transportation",
+				"role": "Role 6",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic6-14",
+				"subTitle": "one-pager",
+				"title": "Deliver more to your customers through the Sift Partner Program",
+				"cta": "read paper",
+				"useCase": "Use Case 5",
+				"Industry": "iGaming",
+				"role": "Role 7",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic6-15",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+				"role": "Role 8",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic6-16",
+				"subTitle": "ebook",
+				"title": "[Migration guide] Moving from Kount to Sift",
+				"cta": "read ebook",
+				"useCase": "Use Case 3",
+				"Industry": "iGaming",
+				"role": "Role 2",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic6-17",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 1",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic6-18",
+				"subTitle": "report",
+				"title": "Sift named a Leader in 2023 Forrester Wave™ for Digital Fraud Management",
+				"cta": "read report",
+				"useCase": "Use Case 2",
+				"Industry": "Marketplaces",
+				"role": "Role 3",
+				"product": "Product 2"
+
+			},
+			{
+                "id": "topic6-19",
+				"subTitle": "one-pager",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read report",
+				"useCase": "Use Case 3",
+				"Industry": "Marketplaces",
+				"role": "Role 4",
+				"product": "Product 5"
+			},
+			{
+                "id": "topic6-20",
+				"subTitle": "ebook",
+				"title": "Payment Fraud Prevention: Quick Pivots and Proactive Planning",
+				"cta": "read ebook",
+				"useCase": "Use Case 5",
+                "role": "Role 5",
+				"product": "Product 6"
+			},
+			{
+                "id": "topic6-21",
+				"subTitle": "ebook",
+				"title": "Protect your payments from checkout to chargeback",
+				"cta": "read ebook",
+				"useCase": "Use Case 8",
+				"Industry": "iGaming",
+				"role": "Role 10",
+				"product": "Product 5"
+			},
+			{
+                "id": "topic6-22",
+				"subTitle": "webinar",
+				"title": "Time Matters. Swift and Agile Responses to Payment Fraud Attacks",
+				"cta": "watch webinar",
+				"useCase": "Use Case 2",
+				"Industry": "iGaming",
+				"role": "Role 9",
+				"product": "Product 5"
+			}
+		]
+	}
+	
+	
+	
+]

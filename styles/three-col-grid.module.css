@@ -1,0 +1,80 @@
+.col_three:hover {
+    /* border-color: #FF3B84;
+    box-shadow: #FF3B84 0px 0px 32px; */
+}
+
+.col_three:hover a {
+    color: #FF3B84;
+    /* padding-right: 24px; */
+}
+.col_three:hover a:after {
+    transform: translateX(-100%);
+}
+
+.col_three:hover span svg {
+    margin-left: -1px;
+}
+
+.SlideWarp > div > div > div > div {
+    padding: 2px 10px 30px;
+}
+.col_four > div > div > div > div {
+    padding: 32px 10px 30px;
+}
+.col_four > div > div {
+   height: auto !important;
+} 
+.three_col> div > div {
+    height: auto !important;
+ }
+ 
+@media (min-width:1281px) {
+    .col_four > div > div {
+        overflow: visible;
+    } 
+    /* .SlideWarp > div > div {
+        overflow: visible;
+    } */
+}
+@media (min-width:1024px) {
+    .three_col > div > div {
+        overflow: visible;
+    } 
+}
+
+
+.ColFourCard > div > div > div > div {
+    padding: 2px 15px 30px 10px;
+}
+
+
+.bg_black{
+    background-color: black;
+}
+
+.bg_black h4{
+    color: white;
+}
+.bg_black p{
+    color: white;
+}
+.bg_black .black{
+    background-color: black;
+}
+
+.eyebrowText span:not(:last-child)::before {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 2px;
+    height: 18px;
+    background-color: #2E69FF;
+}
+
+@media (max-width:1280px) {
+    .eyebrowText span:not(:last-child)::before {
+        height: 12px;
+    }
+}

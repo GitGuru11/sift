@@ -1,0 +1,17 @@
+.col_three_stats {
+   position: relative;
+}
+.white_bg span{
+    color: #2E69FF;
+ }
+
+ .white_bg{
+    background-color: white;
+ }
+
+.white_bg h4{
+    color: black;
+ }
+ .white_bg p{
+   color: black;
+}

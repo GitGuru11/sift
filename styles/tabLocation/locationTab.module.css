@@ -1,0 +1,205 @@
+.tabLocation .logoWrap {
+    max-width: 220px;
+    width: 100%;
+    height: 40px;
+}
+.ulWrap ul{
+    margin-left: 26px;
+    list-style: disc;
+    margin-top: 18px;
+}
+
+.tabLocation .logo {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 767px) {
+    .tabLocation .tab-content .imgWrap {
+        max-width: 300px;
+        width: 100%;
+    }
+}
+
+.cardsSchedule .pipes::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 2px;
+    height: 80%;
+    border-right: 2px solid #2E69FF;
+}
+.cardsSchedule .pipes:last-child::after{
+    display: none;
+}
+@media (max-width: 991px) {
+    .cardsSchedule .pipes::after{
+        height: 70%;
+    }
+}
+.tab_nav_wrap::-webkit-scrollbar {
+    display: none;
+}
+
+.bgImgWrap {
+    width: 100%;
+}
+
+.tab_nav_wrap::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 22px;
+    opacity: 0.2;
+    border-bottom: 2.5px solid #000;
+    border-left: 2.5px solid rgb(0, 0, 0);
+    border-bottom-left-radius: 22px;
+}
+/* @media (min-width: 1601px) {
+    .tab_nav_wrap::after {
+        max-width: 1200px;
+    }
+}
+@media (min-width: 2499px) {
+    .tab_nav_wrap::after {
+        max-width: 1400px;
+    }
+} */
+/* .tab_nav_wrap > div {
+    border-bottom: 2.5px solid rgba(0, 0, 0, .2);
+}
+.tab_nav_wrap > div:first-child {
+    border-bottom: none;
+} */
+
+.tab_nav_wrap::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 21px;
+    width: 1px;
+    height: 3px;
+    opacity: 0.2;
+    border-radius: 11px;
+    border-left: 2.5px solid #fff;
+}
+
+.logoTab .tab_nav_wrap::after {
+    border-bottom: 2.5px solid #000;
+    border-left: 2.5px solid #000;
+}
+
+.logoTab .tab_nav_wrap::before {
+    border-left: 2.5px solid #000;
+}
+
+.tabLocation .activeLink {
+    opacity: 1 !important;
+    color: black;
+}
+
+.tabLocation .activeLink .logoWrap {
+    opacity: 1;
+}
+
+.tabLocation .activeLink::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 22px;
+    border-bottom: 2.5px solid #ff3b84;
+}
+
+.tabLocation .activeLink::before {
+    content: '';
+}
+
+@media (min-width: 768px) {
+    .tabLocation .activeLink {
+        position: relative;
+    }
+    .tabNav::after {
+        border-left: 2.5px solid #ff3b84;
+        border-bottom-left-radius: 22px;
+        left: 0;
+        width: 106%;
+    }
+    .tabNav::before {
+        position: absolute;
+        left: 0;
+        bottom: 21px;
+        width: 1px;
+        height: 3px;
+        border-radius: 11px;
+        border-left: 2.5px solid #ff3b84;
+    }
+}
+@media (max-width: 767px) {
+    .tab_nav_wrap::after {
+        max-width: 350px;
+        border-left: unset;
+        border-bottom-left-radius: 0;
+        width: 0;
+    }
+    .tab_nav_wrap > div{
+        position: relative;
+    }
+    .tab_nav_wrap > div::before{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 22px;
+        opacity: 0.2;
+        border-bottom: 2.5px solid #000;
+    }
+    .tabLocation .activeLink::before{
+        display: none;
+    }
+    .tab_nav_wrap::before {
+        display: none;
+    }
+    .tabLocation .activeLink::before {
+        display: none;
+    }
+    .tabNavLink::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        opacity: 0.2;
+        width: 100%;
+        height: 22px;
+        border-bottom: 2.5px solid white;
+    }
+    .group::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        opacity: 0.2;
+        width: 100%;
+        height: 22px;
+        border-bottom: 2.5px solid black;
+    }
+}
+
+.verticalTab::after{
+    content: '';
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        opacity: 0.4;
+        width: calc(100% );
+        height: 2px;
+        z-index: 1;
+        background-color: #000;
+}

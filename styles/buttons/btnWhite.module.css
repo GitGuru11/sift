@@ -1,0 +1,27 @@
+.btn_white{
+    position :relative;
+    overflow: hidden;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0, 1) 0.4s, linear 0.4s;
+    z-index: 4;
+    
+}
+.btn_white:hover{
+    color: white;
+}
+.btn_white:hover::after{
+    transform: translateX(0);
+    transition: transform .3s ease-out, background-color .3s linear;
+}
+.btn_white::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0;
+    background-color: black;
+    border-radius: 90px;
+    transform: translateX(-100%);
+    transition: transform .3s ease-in, background-color .3s linear;
+    z-index: -1;
+}

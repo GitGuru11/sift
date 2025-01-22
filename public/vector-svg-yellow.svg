@@ -1,0 +1,16 @@
+
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81 153" width="81" height="153">
+	<title>Vector (1)-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-61.259,102.245,-23.752,-14.231,30.306,58.001)">
+			<stop offset="0" stop-color="#ffca36" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffca36" stop-opacity="0"/>
+		</linearGradient>
+		<image width="74" height="75" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzQiIGhlaWdodD0iNzUiIHZpZXdCb3g9IjAgMCA3NCA3NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGVsbGlwc2UgY3g9IjM3IiBjeT0iMzcuNSIgcng9IjM3IiByeT0iMzcuNSIgZmlsbD0iI0ZGQ0EzNiIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+		.s0 { opacity: .8;fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m-105.5 297c17.8 10.3 40.7 3.6 51.3-14.7l129.9-225c10.6-18.4 4.8-41.6-12.9-51.8-17.6-10.2-40.6-3.6-51.2 14.8l-129.9 225c-10.6 18.4-4.8 41.5 12.8 51.7z"/>
+	<use id="Ellipse 14 (1)" href="#img1" transform="matrix(1,0,0,1,7,1)"/>
+</svg>

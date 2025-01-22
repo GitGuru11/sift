@@ -1,0 +1,29 @@
+.statBoxContainer{
+	display: flex;
+	flex-direction: column;
+	color: #fff;
+	font-weight: 700;
+	width: 300px;
+	max-width:300px;
+	margin-right: 40px;
+	flex-grow: 1;
+	position: relative;
+	z-index: 5;
+}
+
+.statBoxContainer:last-child{
+	margin-right:0px;
+}
+
+.statBoxContainer .stat {
+	border-bottom: 1px solid #fff;
+	font-size: 62px;
+}
+
+.statBoxContainer .description {
+	font-size: 18px;
+	padding-top:20px;
+	line-height: 27px;
+	width:80%;
+	font-family: 'Inter', 'sans-serif';
+}

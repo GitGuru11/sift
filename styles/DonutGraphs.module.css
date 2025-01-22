@@ -1,0 +1,20 @@
+.selectContainerWrapper {
+	border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 0 0 20px 0;
+}
+
+.selectContainer {
+    background-color: #fff;
+    border-right: 16px solid transparent;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.1;
+    max-width: 36ch;
+    min-width: 15ch;
+    padding: 10px 15px;
+    position: relative;
+    width: 100%
+}

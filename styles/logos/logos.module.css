@@ -1,0 +1,70 @@
+.logos > div {
+    display: flex;
+    flex-wrap: wrap;
+    width: calc(100% + 34px);
+    margin-left: -17px;
+    margin-bottom: 20px;
+ }
+ .logos > a {
+     display: none;
+ }
+ @media (max-width: 991px){
+     .logos > a {
+         display: inline-block;
+     }
+ }
+ .logos > div > a {
+     width: calc(25% - 34px);
+     max-width: 150px;
+     margin: 0 17px;
+     transition: all 0.3s ease-in-out;
+     transform: unset;
+     position: relative;
+  }
+  .logos > div > a img {
+     transition: all 0.3s ease-in-out;
+     transform: unset;
+     margin: 0 auto;
+     height: 100%;
+     width: 100%;
+  }
+  .logos > div > a:hover img {
+     transform: scale(1.05);
+  }
+ 
+ @media (min-width: 2499px){
+     .logos > div {
+         width: calc(100% + 40px);
+         margin-left: -20px;
+      }
+      .logos > div > a {
+         width: calc(25% - 40px);
+         margin: 0 20px;
+      }
+     
+ }
+ @media (min-width: 481px) and (max-width: 767px){
+     .logos > div {
+         width: 100%;
+         margin-left: -10px;
+     }
+     /* .logos > div > a {
+         width: calc(50% - 20px);
+         margin: 0 10px;
+         max-width: 200px;
+     } */
+ }
+ 
+ @media (max-width: 480px){
+     .logos > div {
+         width: 100%;
+         margin-left: 0;
+     }
+     .logos > div > a {
+         width: calc(50% - 20px);
+         margin: 0 10px;
+         max-width: 100px;
+ 
+         /* margin: 0 0 20px; */
+     }
+ }

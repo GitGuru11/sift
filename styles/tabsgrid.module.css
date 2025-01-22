@@ -1,0 +1,15 @@
+.active_tab{
+    position: relative;
+}
+.active_tab:after{
+    content:'';
+    position: absolute;
+    background-image: url('/pink-border.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 116%;
+    height: 100%;
+    bottom: -19px;
+    left: -15px;
+    
+}

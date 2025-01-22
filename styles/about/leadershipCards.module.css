@@ -1,0 +1,224 @@
+.imgTextTab .logoWrap {
+    max-width: 220px;
+    width: 100%;
+    height: 40px;
+}
+
+.imgTextTab .logo {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+@media (min-width: 1500px) and (max-width: 1599px){
+    .cross{
+        right: 180px !important;
+        top: 35px !important;
+    }
+}
+@media (min-width: 1201px) and (max-width: 1499px){
+    .cross{
+        right: 115px !important;
+    }
+}
+@media (min-width: 992px) and (max-width: 1200px){
+    .cardWrap{
+        padding-bottom: 35px !important;
+    }
+    .cross{
+        right: 15px !important;
+    }
+}
+@media (max-width: 767px) {
+    .imgTextTab .tab-content .imgWrap {
+        max-width: 300px;
+        width: 100%;
+    }
+}
+
+.tab_nav_wrap::-webkit-scrollbar {
+    display: none;
+}
+
+.bgImgWrap {
+    width: 100%;
+}
+
+.tab_nav_wrap::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 22px;
+    opacity: 0.2;
+    border-bottom: 2.5px solid #fff;
+    border-left: 2.5px solid #fff;
+    border-bottom-left-radius: 22px;
+}
+
+.tab_nav_wrap::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 21px;
+    width: 1px;
+    height: 3px;
+    opacity: 0.2;
+    border-radius: 11px;
+    border-left: 2.5px solid #fff;
+}
+
+.logoTab .tab_nav_wrap::after {
+    border-bottom: 2.5px solid #000;
+    border-left: 2.5px solid #000;
+}
+
+.logoTab .tab_nav_wrap::before {
+    border-left: 2.5px solid #000;
+}
+
+.activeLink {
+    opacity: 1 !important;
+    color: white;
+}
+
+.activeLink .logoWrap {
+    opacity: 1;
+}
+
+.activeLink::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 22px;
+    border-bottom: 2.5px solid #ff3b84;
+}
+
+.activeLink::before {
+    content: '';
+}
+
+@media (min-width: 1280px) {
+    .activeLink {
+        position: relative;
+    }
+    .tabNav::after {
+        border-left: 2.5px solid #ff3b84;
+        border-bottom-left-radius: 22px;
+        left: 0;
+        width: 106%;
+    }
+    .tabNav::before {
+        position: absolute;
+        left: 0;
+        bottom: 21px;
+        width: 1px;
+        height: 3px;
+        border-radius: 11px;
+        border-left: 2.5px solid #ff3b84;
+    }
+}
+
+@media (max-width: 1279px) {
+    .tab_nav_wrap::after {
+        display: none;
+    }
+    .tab_nav_wrap::before {
+        display: none;
+    }
+    .activeLink::before {
+        display: none;
+    }
+    .tabNavLink::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        opacity: 0.2;
+        width: 100%;
+        height: 22px;
+        border-bottom: 2.5px solid white;
+    }
+    .group::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        opacity: 0.2;
+        width: 100%;
+        height: 22px;
+        border-bottom: 2.5px solid black;
+    }
+}
+
+.overlay{
+    background: rgba(0, 0, 0, 0.6);
+    /* display: block; */
+    height: 100%;
+    right: 0;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    /* width: 100%; */
+    z-index: 300;
+}
+.logoWrap:hover svg path{
+    transition: all 0.3s ease-in-out;
+}
+.logoWrap:hover svg path{
+    fill: #FF3B84;
+}
+.prevBtn {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+.prevBtn svg path{
+    transition: all 0.3s ease-in-out;
+}
+
+.prevBtn:hover svg path{
+    fill: #FF3B84;
+}
+.nextBtn{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+.nextBtn svg path{
+    transition: all 0.3s ease-in-out;
+}
+.nextBtn:hover svg path{
+    fill: #FF3B84;
+}
+.overlaycardsWrap{
+    transform: translateY(-50%);
+}
+@media screen and (min-width: 767px) and (max-width: 991px) and (orientation: landscape) {
+    .overlaycardsWrap{
+        transform: unset;
+    }
+}
+@media (max-width: 767px) {
+    .overlaycardsWrap{
+        transform: unset;
+    }
+}
+/* .overlay::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.6;
+} */

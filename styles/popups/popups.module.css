@@ -1,0 +1,98 @@
+.popupPatterns {
+    position: relative;
+}
+.popupPatterns::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 570px;
+    height: 560px;
+    background: url('../../public/popups/popupPatter.png') no-repeat;
+    background-size: cover;
+}
+.popupPatterns::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 570px;
+    height: 203px;
+    background: url('../../public/popups/popupPatternRight.png') no-repeat;
+    background-size: cover;
+}
+.fullWithPattern {
+    position: relative;
+}
+/* .fullWithPattern::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 420px;
+    height: 540px;
+    background: url('../../public/popups/leftPatternPopup.png') no-repeat;
+    background-size: cover;
+}
+.fullWithPattern::after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+    height: 540px;
+    background: url('../../public/popups/popupFullRight.png') no-repeat;
+    background-size: cover;
+} */
+.crossBtn svg:hover path {
+    fill: #FF3B84;
+}
+
+
+@media (min-width: 1280px) and (max-width: 1599px) {
+    .popupPatterns::before {
+        width: 400px;
+        height: 350px;    
+    }
+}
+@media (min-width: 1025px) and (max-width: 1279px) {
+    .popupPatterns::before {
+        width: 400px;
+        height: 350px;    
+    }
+    .popupPatterns::after {
+        width: 400px;
+        height: 142px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .popupPatterns::before {
+        width: 300px;
+        height: 250px;
+    }
+    .popupPatterns::after {
+        width: 400px;
+        height: 142px;
+    }
+    .fullWithPattern::before{ 
+        width: 300px;
+        height: 380px;
+    }
+    .fullWithPattern::after {
+        width: 300px;
+        height: 400px;
+    }
+}
+@media (max-width: 767px) {
+    .fullWithPattern::before,
+    .popupPatterns::before {
+       display: none;
+    }
+    .fullWithPattern::after,
+    .popupPatterns::after {
+       display: none;
+    }
+    .crossBtn svg {
+        width: 25px;
+    }
+}

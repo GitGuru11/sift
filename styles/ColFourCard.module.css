@@ -1,0 +1,9 @@
+.ColFourCard {
+    background-color: #00124c;
+}
+.ColFourCard .shareLinks {
+    position: relative;
+}
+.ColFourCard .card svg:hover path {
+    fill: #ff3b84;
+}

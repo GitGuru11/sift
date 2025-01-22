@@ -1,0 +1,12 @@
+.statBoxRowContainer {
+	display:flex;
+	justify-content: center;
+}
+
+.statBoxRow {
+	display:flex;
+	max-width: 1209px;
+	flex-wrap: nowrap;
+	padding-left:70px;
+	padding-right:70px;
+}	

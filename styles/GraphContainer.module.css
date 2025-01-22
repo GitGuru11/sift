@@ -1,0 +1,28 @@
+.wrapper {
+	display: flex !important;
+	justify-content: center;
+}
+
+.container {
+	background: #fff;
+	display: flex;
+	width: 95%;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px;
+	border-bottom-left-radius: 16px;
+	border-bottom-right-radius: 16px;
+	padding: 70px;
+	flex-direction: column;
+	position: relative;
+	top: -40px;
+	max-width:1209px;
+}
+
+.graphContainer {
+	position: relative;
+	overflow: hidden;
+}
+
+.graphContainer .oldGraph {
+	position: relative !important;
+}

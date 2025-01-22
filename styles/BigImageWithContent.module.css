@@ -1,0 +1,18 @@
+.img_box:after{
+content:"";
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background: linear-gradient(270deg, rgba(4, 4, 4, 0.00) 0.37%, rgba(2, 2, 2, 0.15) 25.23%, rgba(0, 0, 0, 0.70) 64.1%, rgba(0, 0, 0, 0.85) 99.56%, rgba(0, 0, 0, 0.85) 99.56%);
+}
+
+@media only screen and (max-width: 767px) {
+.img_box:after{
+    background: linear-gradient(270deg, rgba(4, 4, 4, 0.00) 0%, rgba(2, 2, 2, 0.15) -10%, rgba(0, 0, 0, 0.70) 64.1%, rgba(0, 0, 0, 0.85) 99.56%, rgba(0, 0, 0, 0.85) 99.56%);
+    }
+.img_box img{
+        object-position: 78% 100%;
+    }
+}

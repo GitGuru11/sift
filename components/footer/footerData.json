@@ -1,0 +1,107 @@
+{
+	"items": [
+		{
+			"label": "Quick Links",
+			"url": "/",
+			"subItems": [
+				{
+					"label": "Why Sift",
+					"url": "/why-sift"
+				},
+				{
+					"label": "Careers",
+					"url": " /careers"
+				},
+				{
+					"label": "Platform",
+					"url": "/platform"
+				},
+				{
+					"label": "Company",
+					"url": "/company"
+				},
+				{
+					"label": "FIBR",
+					"url": "/fibr-fraud-industry-benchmarking-resource"
+				}
+			]
+		},
+		{
+			"label": "Developers",
+			"url": "/",
+			"subItems": [
+				{
+					"label": "Overview",
+					"url": "https://developers.sift.com",
+					"externalLink": true
+				},
+				{
+					"label": "APIs",
+					"url": "https://developers.sift.com/docs/curl/apis-overview",
+					"externalLink": true
+				},
+				{
+					"label": "Client Libraries",
+					"url": "https://developers.sift.com/plugins/client-libraries",
+					"externalLink": true
+				},
+				{
+					"label": "Integration guides",
+					"url": "https://developers.sift.com/guides",
+					"externalLink": true
+				},
+				{
+					"label": "Tutorials",
+					"url": "https://developers.sift.com/tutorials",
+					"externalLink": true
+				},
+				{
+					"label": "Engineering blog",
+					"url": "https://engineering.sift.com",
+					"externalLink": true
+				}
+			]
+		},
+		{
+			"label": "Support",
+			"url": "/",
+			"subItems": [
+				{
+					"label": "Contact support",
+					"url": "/contact-support"
+				},
+				{
+					"label": "System status",
+					"url": "https://status.sift.com",
+					"externalLink": true
+				},
+				{
+					"label": "Trust & Safety University",
+					"url": "/trust-safety-university"
+				}
+			]
+		},
+		{
+			"label": "Why Sift",
+			"url": "/",
+			"subItems": [
+				{
+					"label": "Market Leadership",
+					"url": "/why-sift#leadership"
+				},
+				{
+					"label": "Professional Services",
+					"url": "/why-sift#professionalservices"
+				},
+				{
+					"label": "Patents",
+					"url": "/patents"
+				},
+				{
+					"label": "Community",
+					"url": "/why-sift#community"
+				}
+			]
+		}
+	]
+}

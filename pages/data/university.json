@@ -1,0 +1,453 @@
+[
+    {
+        "id":"1",
+        "date":"jul 23, 2023",
+        "topic":"topic1",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"2",
+        "date":"apr 20, 2023",
+        "topic":"topic1",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"3",
+        "date":"apr 16, 2023",
+        "topic":"topic1",
+        "author":"author1",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"4",
+        "date":"apr 16, 2023",
+        "topic":"topic1",
+        "author":"author1",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"5",
+        "date":"apr 16, 2023",
+        "topic":"topic1",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"6",
+        "date":"apr 16, 2023",
+        "topic":"topic1",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"7",
+        "date":"apr 16, 2023",
+        "topic":"topic3",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"8",
+        "date":"apr 16, 2023",
+        "topic":"topic3",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"9",
+        "date":"may 16, 2023",
+        "topic":"topic3",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"10",
+        "date":"may 16, 2023",
+        "topic":"topic3",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"11",
+        "date":"may 16, 2023",
+        "topic":"topic3",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"12",
+        "date":"may 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"13",
+        "date":"may 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"14",
+        "date":"may 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"15",
+        "date":"may 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"16",
+        "date":"may 16, 2023",
+        "topic":"topic4",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"17",
+        "date":"oct 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"18",
+        "date":"oct 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"19",
+        "date":"oct 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"20",
+        "date":"oct 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"21",
+        "date":"oct 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"22",
+        "date":"oct 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"23",
+        "date":"oct 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"24",
+        "date":"oct 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"25",
+        "date":"oct 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"26",
+        "date":"oct 23, 2023",
+        "topic":"topic1",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"27",
+        "date":"oct 20, 2023",
+        "topic":"topic1",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning..",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"28",
+        "date":"oct 16, 2023",
+        "topic":"topic1",
+        "author":"author1",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"29",
+        "date":"oct 16, 2023",
+        "topic":"topic1",
+        "author":"author1",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"30",
+        "date":"sept 16, 2023",
+        "topic":"topic1",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"31",
+        "date":"sept 16, 2023",
+        "topic":"topic1",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"32",
+        "date":"sept 16, 2023",
+        "topic":"topic3",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"33",
+        "date":"sept 16, 2023",
+        "topic":"topic3",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"34",
+        "date":"sept 16, 2023",
+        "topic":"topic3",
+        "author":"author2",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"35",
+        "date":"sept 16, 2023",
+        "topic":"topic3",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"36",
+        "date":"sept 16, 2023",
+        "topic":"topic3",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"37",
+        "date":"sept 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"38",
+        "date":"sept 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"39",
+        "date":"sept 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"40",
+        "date":"aug 16, 2023",
+        "topic":"topic4",
+        "author":"author3",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"41",
+        "date":"aug 16, 2023",
+        "topic":"topic4",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"42",
+        "date":"aug 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"43",
+        "date":"aug 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"44",
+        "date":"aug 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"45",
+        "date":"jul 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"46",
+        "date":"jul 16, 2023",
+        "topic":"topic5",
+        "author":"author4",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"47",
+        "date":"jul 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"48",
+        "date":"jul 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"49",
+        "date":"jul 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    },
+    {
+        "id":"50",
+        "date":"jul 16, 2023",
+        "topic":"topic6",
+        "author":"author5",
+        "title":"AI-Powered Fraud Decisioning...",
+        "ctaText":"read more",
+        "ctaLink":"/"
+    }
+
+]

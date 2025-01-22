@@ -1,0 +1,48 @@
+.blogFilter .blackdots::before {
+    content: '';
+    position: absolute;
+    top: 44%;
+    left: 6px;
+    width: 4px;
+    height: 4px;
+    background-color: #000;
+    border-radius: 50%;
+}
+.SelectedItems:hover span svg path{
+    fill: #FF3B84;
+}
+
+.resourcesFilter .pagination .imgWrapNext::before,
+.blogFilter .pagination .imgWrapNext::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 28px;
+    height: 28px;
+    background: url('../../public/filter/next-btn.svg') no-repeat;
+    background-size: cover;
+}
+
+.resourcesFilter .pagination .imgWrapNext:hover::before,
+.blogFilter .pagination .imgWrapNext:hover::before {
+    background: url('../../public/filter/next-btn-pink.svg') no-repeat;
+    background-size: cover;
+}
+
+.resourcesFilter .pagination .imgWrapPrev::after,
+.blogFilter .pagination .imgWrapPrev::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 28px;
+    height: 28px;
+    background: url('../../public/filter/prev-btn.svg') no-repeat;
+    background-size: cover;
+}
+.resourcesFilter .pagination .imgWrapPrev:hover::after,
+.blogFilter .pagination .imgWrapPrev:hover::after {
+    background: url('../../public/filter/prev-btn-pink.svg') no-repeat;
+    background-size: cover;
+}

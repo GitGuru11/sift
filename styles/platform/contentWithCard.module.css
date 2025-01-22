@@ -1,0 +1,37 @@
+.card {
+	transition: all 0.3s  ease-in-out;
+}
+
+.card:hover {
+	box-shadow: 0px 0px 32px 2px rgba(0, 0, 0, 0.24);
+	/* border-width: 3px; */
+}
+
+.card:hover::after {
+	border: 3px solid black;
+	top: 0px;
+	left: 0px;
+}
+
+.card::after {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	border: 2px solid black;
+	border-radius: 16px;
+	/* transition: all 0.3s ease-in-out; */
+}
+
+.card:hover svg {
+	margin-left: -1px;
+}
+
+.card:hover a {
+	color: #ff3b84;
+}
+.card:hover a span:after{
+	margin-left: -1px;
+}

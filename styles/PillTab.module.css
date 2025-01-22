@@ -1,0 +1,42 @@
+.pillTabContainer {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	z-index: 5;
+	position: relative;
+}
+
+.pillTab {
+	background: #2E69FF;
+	width: fit-content;
+	border-radius: 47px;
+	display: flex;
+	height:68px;
+}
+
+.pillTab li {
+	display: inline-block;
+	padding: 10px;
+	margin:6px;
+	border-radius: 47px;
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #fff;
+    padding-right: 40px;
+    padding-left: 40px;
+    cursor: pointer;
+}
+
+.pillTab li:hover {
+	background: #1f5dfb;
+}
+
+.pillTab .activeTab {
+	background: #fff;
+	color:#000;
+}
+
+.pillTab .activeTab:hover {
+	background: #fff;
+}

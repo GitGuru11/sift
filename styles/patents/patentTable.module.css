@@ -1,0 +1,13 @@
+.plusMinus{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-image: url("/patents/Plus.svg");
+    transition: background-image 0.3s ease-in-out ;
+}
+.plusMinus.minus{
+    background-image: url("/patents/Minus.svg");
+}

@@ -1,0 +1,26 @@
+.sponsors > div{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 35px;
+  }
+  .sponsors > div > div {
+    width: calc(33.33% - 20px);
+    margin-right: 16px;
+  }
+  @media (max-width: 595px) {
+    .sponsors > div > div {
+        width: fit-content;
+        min-width: 120px;
+        margin-bottom: 16px;
+
+      }
+
+}
+
+.sponsors > div > div img{
+    max-width: 160px;
+    /* max-height: 29px; */
+    height: 100%;
+    margin: 0;
+    object-fit: contain;
+}
