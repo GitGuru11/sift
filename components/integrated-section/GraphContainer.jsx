@@ -1633,7 +1633,7 @@ function GraphContainer({ items, activeTab }) {
 		});
 
 		geography = geography.map((g) => {
-			if (d3.activeTab == 2) {
+			if (activeTab == 2) {
 				return {
 					x: QUARTERS.indexOf(g.QUARTER),
 					geography: g.GEOGRAPHY,
